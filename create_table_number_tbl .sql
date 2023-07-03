@@ -1,0 +1,1 @@
+CREATE TABLE number_tbl (val SMALLINT);
