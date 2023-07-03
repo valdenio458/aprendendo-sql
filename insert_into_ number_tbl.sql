@@ -1,0 +1,2 @@
+INSERT INTO number_tbl
+VALUES(5)
