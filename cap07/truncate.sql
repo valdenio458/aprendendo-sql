@@ -1,0 +1,7 @@
+SELECT 
+  TRUNCATE(72.0909, 1),
+  TRUNCATE(72.0909, 2),
+  TRUNCATE(72.0909, 3)
+
+-- Resultado:
+-- 72.0 72.09 72.090
