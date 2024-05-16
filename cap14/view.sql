@@ -9,7 +9,7 @@ zipcode)
 AS 
 SELECT 
   cust_id,
-  concat('ends in', substr(fed_id, 8, 4)) fed_id,
+  concat('ends in ', substr(fed_id, 8, 4)) fed_id,
   cust_type_cd,
   address,
   city,
