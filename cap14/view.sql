@@ -15,4 +15,4 @@ SELECT
   city,
   state,
   postal_code
-  FROM 
+  FROM customer;
