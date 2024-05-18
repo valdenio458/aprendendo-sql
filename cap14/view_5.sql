@@ -14,6 +14,6 @@ SELECT
   address,
   city,
   state,
-  postal_code
+  zipcode
   FROM customer
   WHERE cust_type_cd = 'B';
